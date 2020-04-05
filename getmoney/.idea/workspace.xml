@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf8f63a4-f57f-4663-8cdc-34d92f645353" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/backend_proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getmoney/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/getmoney.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/getmoney.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/getmoney/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/migrations/0002_auto_20200314_1810.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/migrations/0003_auto_20200316_1323.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/migrations/0004_auto_20200316_2017.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/getmoney/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/getmoney/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/getmoney/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getmoney/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/getmoney/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getsomemoney/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/getsomemoney/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZGnYGuDa2H5wkhq6txMKDQTwWR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf8f63a4-f57f-4663-8cdc-34d92f645353" name="Default Changelist" comment="" />
+      <created>1584474344258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584474344258</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="201" width="639" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586025939814">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="390" y="201" width="639" height="390" key="#com.intellij.fileTypes.FileTypeChooser/63.27.1303.741@63.27.1303.741" timestamp="1586025939814" />
+    <state x="447" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586030588781">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="447" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/63.27.1303.741@63.27.1303.741" timestamp="1586030588781" />
+    <state x="497" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586031889141">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="497" y="154" width="424" height="484" key="FileChooserDialogImpl/63.27.1303.741@63.27.1303.741" timestamp="1586031889141" />
+    <state x="203" y="31" key="SettingsEditor" timestamp="1584616769743">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="203" y="31" key="SettingsEditor/63.27.1303.741@63.27.1303.741" timestamp="1584616769743" />
+  </component>
+</project>
