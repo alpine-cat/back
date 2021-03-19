@@ -11,7 +11,7 @@ django-filter==2.0.0
 django-filters==0.2.1
 django-rest-auth==0.9.5
 django-sendsms==0.3.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djangorestframework-simplejwt==4.4.0
 drfaddons==0.1.3
